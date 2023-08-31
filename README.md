@@ -17,7 +17,8 @@ Once we click add we will get an pop up asking for confirmation and after it the
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Turtle crossing: <br/>
-<a href="https://imgur.com/ObVRJNP"><img src="https://i.imgur.com/ObVRJNP.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/fMJMCsu"><img src="https://i.imgur.com/fMJMCsu.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/hktmSph"><img src="https://i.imgur.com/hktmSph.jpg" title="source: imgur.com" /></a>
+Password-Manager: <br/>
+<a href="https://imgur.com/A5S8jO0"><img src="https://i.imgur.com/A5S8jO0.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/kvR3Ohi"><img src="https://i.imgur.com/kvR3Ohi.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/HQv8c41"><img src="https://i.imgur.com/HQv8c41.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/0W7LTqG"><img src="https://i.imgur.com/0W7LTqG.jpg" title="source: imgur.com" /></a>
