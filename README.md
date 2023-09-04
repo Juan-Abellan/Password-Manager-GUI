@@ -22,3 +22,17 @@ Password-Manager: <br/>
 <a href="https://imgur.com/kvR3Ohi"><img src="https://i.imgur.com/kvR3Ohi.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/HQv8c41"><img src="https://i.imgur.com/HQv8c41.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/0W7LTqG"><img src="https://i.imgur.com/0W7LTqG.jpg" title="source: imgur.com" /></a>
+
+<h1>Password-Manager-GUI 2.0</h1>
+
+<h2>Description</h2>
+
+This time we are going to improve the functionality of the App adding a search button which allows to find the data of the requested website for this goal we will be using concepts of error handling, also we will switch from a text file to a json file in order to implement a more functional way to save our data.
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Password-Manager-GUI 2.0: <br/>
+<a href="https://imgur.com/VP9Trro"><img src="https://i.imgur.com/VP9Trro.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/nTcXwbH"><img src="https://i.imgur.com/nTcXwbH.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/lM3FIMo"><img src="https://i.imgur.com/lM3FIMo.jpg" title="source: imgur.com" /></a>
